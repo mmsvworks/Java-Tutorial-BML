@@ -1,0 +1,21 @@
+
+
+Car : break, acceleration, speedometer, seats
+
+Class: blueprint
+Objects: are the actual cars
+Inheritance
+
+Polymorphism
+Abstraction
+Encasulation
+Objects are the real life instances of class.
+
+Smartphones: browse, call, apps, lots of stuff
+
+Smartphones// Parent class
+
+Samsung, Apple// Child Class
+
+Samsung extends Smartphones
+Apple extends Smartphones
